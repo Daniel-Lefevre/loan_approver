@@ -1,6 +1,0 @@
-loan_helper.py
-pyproject.toml
-loan_calculator.egg-info/PKG-INFO
-loan_calculator.egg-info/SOURCES.txt
-loan_calculator.egg-info/dependency_links.txt
-loan_calculator.egg-info/top_level.txt

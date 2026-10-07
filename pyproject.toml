@@ -6,3 +6,6 @@ build-backend = "setuptools.build_meta"
 name = "loan_helper"
 version = "0.1.0"
 description = "An external library for approving bank loans."
+
+[tool.setuptools]
+py-modules = ["loan_helper"]
